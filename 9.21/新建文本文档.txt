@@ -1,0 +1,7 @@
+display resolution中等卖的最差 最高等卖的也比较差 中等偏上卖得好
+recording definition 最低最高卖得好
+RAM ROM CPU高的卖的越差 也越好
+Highest Camera Resolution中等的卖的好 高等的卖的差
+Price 中低的卖得好 中高的卖的差
+
+We also discovered some intriguing and unexpected conclusion. Phones with upper-middle display resolution sell better, while phones with middle and the highest counterparts sell worse. Phones with the lowest and highest recording definition gain better sales. It is the most amusing that phones sold either the best or the worst focus onto the highest RAM, ROM and CPU. As for the Highest Camera Resolution and Price, the ones with middle and lower-middle condition sell well, and the ones with upper-middle or the highest equivalents sell experience a tough sell. 

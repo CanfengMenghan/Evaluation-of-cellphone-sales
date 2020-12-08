@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Background}{4}
+\contentsline {subsection}{\numberline {1.1}Research Background}{4}
+\contentsline {subsection}{\numberline {1.2}Current Research Status}{4}
+\contentsline {subsection}{\numberline {1.3}Research purpose and significance}{5}
+\contentsline {subsection}{\numberline {1.4}Research method and general process}{5}
+\contentsline {section}{\numberline {2}Assumptions, Justifications, and Definitions}{7}
+\contentsline {subsection}{\numberline {2.1}Assumptions and Justifications}{7}
+\contentsline {subsection}{\numberline {2.2}Definitions}{8}
+\contentsline {section}{\numberline {3}Data Procurement and Process}{8}
+\contentsline {subsection}{\numberline {3.1}Data extraction}{8}
+\contentsline {subsection}{\numberline {3.2}Grey Relational Analysis}{13}
+\contentsline {subsection}{\numberline {3.3}Information Entropy}{15}
+\contentsline {subsection}{\numberline {3.4}Principal Component Analysis}{21}
+\contentsline {section}{\numberline {4}Modeling}{23}
+\contentsline {subsection}{\numberline {4.1}Basic Statistics}{23}
+\contentsline {subsection}{\numberline {4.2}Weight Determination Technique}{25}
+\contentsline {subsection}{\numberline {4.3}Logistic Regression}{27}
+\contentsline {subsection}{\numberline {4.4}KNN Algorithm}{29}
+\contentsline {section}{\numberline {5}Optimization}{30}
+\contentsline {subsection}{\numberline {5.1}Principal Component Regression}{30}
+\contentsline {subsection}{\numberline {5.2}Bayes Distinction}{31}
+\contentsline {subsection}{\numberline {5.3}BP Neural Network Fitting}{36}
+\contentsline {subsection}{\numberline {5.4}XG Boosting Algorithm}{38}
+\contentsline {section}{\numberline {6}Application}{39}
+\contentsline {section}{\numberline {7}Sensitivity Analysis}{39}
+\contentsline {section}{\numberline {8}Conclusion}{40}
+\contentsline {subsection}{\numberline {8.1}Strength and Weakness}{40}
+\contentsline {subsection}{\numberline {8.2}Conclusion}{40}
+\contentsline {section}{\numberline {9}References}{42}
+\contentsline {section}{\numberline {10}Acknowledgement}{44}
+\contentsline {section}{\numberline {11}Declaration}{47}
+\contentsline {section}{\numberline {12}Appendix}{48}

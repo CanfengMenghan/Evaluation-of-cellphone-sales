@@ -1,0 +1,13 @@
+p=p';
+t=t';
+net=newff(minmax(p),[10 1]);
+net.trainParam.epochs=1000;
+net.trainParam.goal=0.001;
+net.trainParam.show=50;
+net.trainParam.lr=0.05;
+net.trainParam.mc=0.9;
+net=train(net,p,t); 
+A=sim(net,test);
+A=A';
+
+k-ford

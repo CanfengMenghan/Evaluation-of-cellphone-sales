@@ -1,0 +1,383 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.11.20)  6 DEC 2018 18:52
+entering extended mode
+**D:/Â≠¶‰π†/Â≠¶‰π†/È´ò‰∏≠/ÊõæÂ≠¶ËØæÁ®ã/‰∏òÊàêÊ°ê/12.5/latex/1.tex
+(D:/Â≠¶‰π†/Â≠¶‰π†/È´ò‰∏≠/ÊõæÂ≠¶ËØæÁ®ã/‰∏òÊàêÊ°ê/12.5/latex/1.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(C:\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(C:\CTEX\MiKTeX\tex\latex\base\size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+(C:\CTEX\MiKTeX\tex\latex\geometry\geometry.cfg))
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(D:\Â≠¶‰π†\Â≠¶‰π†\È´ò‰∏≠\ÊõæÂ≠¶ËØæÁ®ã\‰∏òÊàêÊ°ê\12.5\latex\1.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
+* v-part:(T,H,B)=(90.47955pt, 664.08774pt, 90.47955pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.96826pt
+* \textheight=664.08774pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-18.79044pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen114
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks17
+)
+Missing character: There is no ≤ in font cmr17!
+Missing character: There is no Œ in font cmr17!
+Missing character: There is no » in font cmr17!
+Missing character: There is no ¸ in font cmr17!
+Missing character: There is no ∂ in font cmr17!
+Missing character: There is no ” in font cmr17!
+Missing character: There is no ‘ in font cmr17!
+Missing character: There is no ± in font cmr17!
+Missing character: There is no – in font cmr17!
+Missing character: There is no ’ in font cmr17!
+Missing character: There is no √ in font cmr17!
+Missing character: There is no ˚ in font cmr17!
+Missing character: There is no £ in font cmr17!
+Missing character: There is no ∫ in font cmr17!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 9.
+Missing character: There is no ≤ in font cmr17!
+Missing character: There is no ‹ in font cmr17!
+Missing character: There is no ¡ in font cmr17!
+Missing character: There is no Ë in font cmr17!
+Missing character: There is no Œ in font cmr17!
+Missing character: There is no ¢ in font cmr17!
+Missing character: There is no « in font cmr17!
+Missing character: There is no Æ in font cmr17!
+Missing character: There is no ≥ in font cmr17!
+Missing character: There is no … in font cmr17!
+Missing character: There is no Ã in font cmr17!
+Missing character: There is no Ô in font cmr17!
+Missing character: There is no ’ in font cmr17!
+Missing character: There is no ÿ in font cmr17!
+Missing character: There is no — in font cmr17!
+Missing character: There is no Ù in font cmr17!
+Missing character: There is no ÷ in font cmr17!
+Missing character: There is no – in font cmr17!
+Missing character: There is no — in font cmr17!
+Missing character: There is no ß in font cmr17!
+Missing character: There is no £ in font cmr17!
+Missing character: There is no ∫ in font cmr17!
+Missing character: There is no « in font cmr17!
+Missing character: There is no Â in font cmr17!
+Missing character: There is no ª in font cmr17!
+Missing character: There is no ™ in font cmr17!
+Missing character: There is no ¥ in font cmr17!
+Missing character: There is no Û in font cmr17!
+Missing character: There is no — in font cmr17!
+Missing character: There is no ß in font cmr17!
+Missing character: There is no ∏ in font cmr17!
+Missing character: There is no Ω in font cmr17!
+Missing character: There is no   in font cmr17!
+Missing character: There is no Ù in font cmr17!
+Missing character: There is no ÷ in font cmr17!
+Missing character: There is no – in font cmr17!
+Missing character: There is no — in font cmr17!
+Missing character: There is no ß in font cmr17!
+Missing character: There is no   in font cmr17!
+Missing character: There is no ° in font cmr17!
+Missing character: There is no ∑ in font cmr17!
+Missing character: There is no › in font cmr17!
+Missing character: There is no £ in font cmr17!
+Missing character: There is no ∫ in font cmr17!
+Missing character: There is no ± in font cmr17!
+Missing character: There is no ± in font cmr17!
+Missing character: There is no æ in font cmr17!
+Missing character: There is no © in font cmr17!
+Missing character: There is no π in font cmr17!
+Missing character: There is no ˙ in font cmr17!
+Missing character: There is no º in font cmr17!
+Missing character: There is no “ in font cmr17!
+Missing character: There is no £ in font cmr17!
+Missing character: There is no ∫ in font cmr17!
+Missing character: There is no ÷ in font cmr17!
+Missing character: There is no – in font cmr17!
+Missing character: There is no π in font cmr17!
+Missing character: There is no ˙ in font cmr17!
+Missing character: There is no ÷ in font cmr17!
+Missing character: There is no ∏ in font cmr17!
+Missing character: There is no µ in font cmr17!
+Missing character: There is no º in font cmr17!
+Missing character: There is no Ω in font cmr17!
+Missing character: There is no Ã in font cmr17!
+Missing character: There is no   in font cmr17!
+Missing character: There is no ¶ in font cmr17!
+Missing character: There is no – in font cmr17!
+Missing character: There is no ’ in font cmr17!
+Missing character: There is no √ in font cmr17!
+Missing character: There is no ˚ in font cmr17!
+Missing character: There is no £ in font cmr17!
+Missing character: There is no ∫ in font cmr17!
+Missing character: There is no Œ in font cmr17!
+Missing character: There is no ‚ in font cmr17!
+Missing character: There is no Í in font cmr17!
+Missing character: There is no ª in font cmr17!
+Missing character: There is no Õ in font cmr17!
+Missing character: There is no ı in font cmr17!
+Missing character: There is no µ in font cmr17!
+Missing character: There is no Ó in font cmr17!
+Missing character: There is no æ in font cmr17!
+Missing character: There is no ¸ in font cmr17!
+Missing character: There is no ¬ in font cmr17!
+Missing character: There is no € in font cmr17!
+Missing character: There is no Œ in font cmr17!
+Missing character: There is no ƒ in font cmr17!
+Missing character: There is no Ã in font cmr17!
+Missing character: There is no ‚ in font cmr17!
+Missing character: There is no ƒ in font cmr17!
+Missing character: There is no ø in font cmr17!
+Missing character: There is no £ in font cmr17!
+Missing character: There is no ∫ in font cmr17!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+ [1
+
+{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
+[2] (D:\Â≠¶‰π†\Â≠¶‰π†\È´ò‰∏≠\ÊõæÂ≠¶ËØæÁ®ã\‰∏òÊàêÊ°ê\12.5\latex\1.toc)
+\tf@toc=\write3
+ [3]
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+[4] <1.jpg, id=17, 557.83406pt x 636.12656pt>
+File: 1.jpg Graphic file (type jpg)
+ <use 1.jpg>
+Package pdftex.def Info: 1.jpg used on input line 60.
+(pdftex.def)             Requested size: 426.80124pt x 512.1439pt.
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [5] [6 <D:/Â≠¶‰π†/Â≠¶‰π†/È´ò‰∏≠/ÊõæÂ≠¶ËØæÁ®ã/‰∏òÊàêÊ°ê/12.5/latex/1.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 74.
+
+(C:\CTEX\MiKTeX\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
+ [7]
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ± in font cmr12!
+ [8]
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ± in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ± in font cmr12!
+ [9]
+
+LaTeX Warning: Reference `formula_1' on page 10 undefined on input line 135.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 137.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 137.
+
+LaTeX Warning: Reference `formula_2' on page 10 undefined on input line 142.
+
+
+LaTeX Warning: Reference `formula_3' on page 10 undefined on input line 148.
+
+
+LaTeX Warning: Reference `formula_4' on page 10 undefined on input line 154.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 161.
+
+
+Overfull \hbox (33.62465pt too wide) in paragraph at lines 163--190
+ [][] 
+ []
+
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.493   \centering
+                  
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.493   \centering
+                  
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 1657 strings out of 495354
+ 22315 string characters out of 3183858
+ 141983 words of memory out of 3000000
+ 4845 multiletter control sequences out of 15000+200000
+ 10077 words of font info for 35 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,14n,19p,1473b,251s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
